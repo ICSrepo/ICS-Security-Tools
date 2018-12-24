@@ -7,6 +7,6 @@
 
 # Currated Content
 * [Awesome ICS Tools](https://github.com/hslatman/awesome-industrial-control-system-security)
-* [ICSRepo](https://github.com/ICSrepo)
+* [ICSRepo by Marcin Dudek](https://github.com/MDudek-ICS/)
 
 (creative commons license)
